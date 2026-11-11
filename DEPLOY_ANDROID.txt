@@ -1,0 +1,9 @@
+PANDUAN SINGKAT ANDROID
+
+A. Ekstrak ZIP.
+B. Masuk folder nusantara_earth_v3_2.
+C. Pastikan index.html, config.js, package.json, vercel.json, .env.example, dan folder api terlihat.
+D. Unggah SEMUA isi folder ke satu repository GitHub.
+E. Impor repository itu di Vercel lalu Deploy.
+
+Jangan mengunggah hanya index.html. Jangan menaruh API key di file publik.

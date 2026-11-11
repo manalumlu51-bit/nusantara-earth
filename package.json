@@ -1,0 +1,9 @@
+{
+  "name": "nusantara-earth",
+  "version": "3.2.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node -e \"console.log('Nusantara Earth is a static site; deploy with Vercel.')\""
+  }
+}
